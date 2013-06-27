@@ -3,7 +3,7 @@ BEGIN {
   $Dist::Zilla::MintingProfile::PLTK::AUTHORITY = 'cpan:DBR';
 }
 {
-  $Dist::Zilla::MintingProfile::PLTK::VERSION = '0.1.2';
+  $Dist::Zilla::MintingProfile::PLTK::VERSION = '0.2.0';
 }
 
 # ABSTRACT: A minting profile for Modules written with MooseX::Declare
@@ -28,7 +28,7 @@ Dist::Zilla::MintingProfile::PLTK - A minting profile for Modules written with M
 
 =head1 VERSION
 
-version 0.1.2
+version 0.2.0
 
 =head1 SYNOPSIS
 

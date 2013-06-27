@@ -58,11 +58,11 @@
    "provides" : {
       "Dist::Zilla::MintingProfile::PLTK" : {
          "file" : "lib/Dist/Zilla/MintingProfile/PLTK.pm",
-         "version" : "v0.1.2"
+         "version" : "v0.2.0"
       }
    },
    "release_status" : "stable",
-   "version" : "0.1.2",
+   "version" : "0.2.0",
    "x_authority" : "cpan:DBR"
 }
 
