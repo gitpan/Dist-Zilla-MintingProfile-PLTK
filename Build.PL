@@ -19,7 +19,7 @@ my %module_build_args = (
     "Daniel B <dbr\@cpan.org>"
   ],
   "dist_name" => "Dist-Zilla-MintingProfile-PLTK",
-  "dist_version" => "0.1.0",
+  "dist_version" => "0.1.2",
   "license" => "perl",
   "module_name" => "Dist::Zilla::MintingProfile::PLTK",
   "recommends" => {},
